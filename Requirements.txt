@@ -1,0 +1,15 @@
+1. Python 3 (3.6 or higher)
+	numpy
+	matplotlib
+	cv2
+2. TensorFlow (already contains Keras)
+
+3. Google Colab or Jupyter Notebook
+
+__________________________________________________________
+To run everything without any problems:
+folder:
+	dataset (can be extracted from dataset.rar (link to archive is in dataset.txt)
+and files:
+	unet_model.ipynb, unet_model_core.py, Train.py, Predict_mask.py
+must be placed in the same directory.
