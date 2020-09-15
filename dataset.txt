@@ -1,0 +1,4 @@
+Full dataset (85 MB) can be downloaded from:
+	https://drive.google.com/file/d/1SncHZvLKdthWChCvG0CTFoZtzbUl0Pco/view?usp=sharing
+Unzipped folder contains it.
+Please place it in a same directory with working files (unet_model.ipynb, unet_model_core.py, Train.py, Predict_mask.py).
